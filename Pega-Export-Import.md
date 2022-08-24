@@ -12,4 +12,4 @@
 
 ## When Importing *REMEMBER
 
-You have to click the **operator icon** at the bottom left and assign the application ruleset to operator.
+You have to click the **operator icon** at the bottom left and **assign the application ruleset to operator**.
