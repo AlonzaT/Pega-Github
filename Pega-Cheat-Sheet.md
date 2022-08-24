@@ -6,7 +6,8 @@
 
 Guide from academy.pega.com
 ![SSA Organizational Structure Example](./images/SSA_org_chart.png)
-This Image is an example of an Organization, Division, and Units
+
+**This Image is an example of an Organization, Division, and Units.**
 
 You should always map out an outline to follow. This should consist of
 Users (Operators), each user's UI (Portals).
