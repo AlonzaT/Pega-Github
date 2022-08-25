@@ -19,11 +19,10 @@ Create additional personas when a unique combination of channel interface, resp
 
 Channel Interfaces
 
-User Interfaces are also called channel interfaces.
-￼
+## User Interfaces are also called channel interfaces.
 
 User management
 
 ![Personas-&-Channels](./images/Personas-&-Channels.png)
 
-A user is an individual who interacts with an application. In App Studio, create a new user with an email address and assign them a persona or developer role by clicking Users > User management > People.
+A user is an individual who interacts with an application. In App Studio, create a new user with an email address and assign them a persona or developer role by clicking **Users > User management > People**.
