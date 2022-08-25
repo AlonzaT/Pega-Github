@@ -27,4 +27,4 @@ and the @CurrentDateTime()
 As you can see the first parameter is the .BirthDate Property + “T000000.000 GMT” to format the property.
 The second parameter is the @CurrentDate().
 The third parameter is the part of the date we want which is the Year “Y”.
-The + 1 balances it all out.
+The +1 balances it all out.
