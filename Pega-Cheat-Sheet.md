@@ -4,7 +4,10 @@
 
 ### In General
 
-Guide from academy.pega.com
+![Pega Overview](./images/Pega-Overview.png)
+
+**Guide from academy.pega.com below.**
+
 ![SSA Organizational Structure Example](./images/SSA_org_chart.png)
 
 **This Image is an example of an Organization, Division, and Units.**
